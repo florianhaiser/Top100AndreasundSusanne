@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "assets": {
+    "image-mux7v9l3-uplo3jw3jwe": {
+      "id": "image-mux7v9l3-uplo3jw3jwe",
+      "source": "project:Teil5.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:51acb146690243aac499b1b170a0c47e4d0f034ce8e44897b2e42367e5911a34",
+      "available": true
+    },
+    "image-mux7w51c-sxsf50ena7b": {
+      "id": "image-mux7w51c-sxsf50ena7b",
+      "source": "project:Teil4.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:a8d055bfadac209874127615a9a1d38a9cc3f8c3519f07e0f78764f6e153d4a9",
+      "available": true
+    },
+    "image-mux7yks4-1pugk84qfmf": {
+      "id": "image-mux7yks4-1pugk84qfmf",
+      "source": "project:Teil3.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:a54b283246dbd0d017fcbe461a553f8b57d9fa837a31dc31005edee7b7215691",
+      "available": true
+    },
+    "image-mux7ytz6-een4l6k5rm": {
+      "id": "image-mux7ytz6-een4l6k5rm",
+      "source": "project:Teil2.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:a48f3889c6c72f94c947d55125ce6c7380f4797ef249d742b08c7eb3cb814fba",
+      "available": true
+    },
+    "image-mux7z8g2-k6abzheod1": {
+      "id": "image-mux7z8g2-k6abzheod1",
+      "source": "project:Teil1.jpg",
+      "remembered": {},
+      "suggestions": {},
+      "revision": "sha256:b61a06684fd4be0776d3ef0ed3fc2786ed9a379f8e7bf6016df0f2ec12953b85",
+      "available": true
+    }
+  },
+  "sources": {
+    "project:Teil5.jpg": {
+      "asset": "image-mux7v9l3-uplo3jw3jwe",
+      "kind": "original",
+      "cropToken": null
+    },
+    "project:Teil4.jpg": {
+      "asset": "image-mux7w51c-sxsf50ena7b",
+      "kind": "original",
+      "cropToken": null
+    },
+    "project:Teil3.jpg": {
+      "asset": "image-mux7yks4-1pugk84qfmf",
+      "kind": "original",
+      "cropToken": null
+    },
+    "project:Teil2.jpg": {
+      "asset": "image-mux7ytz6-een4l6k5rm",
+      "kind": "original",
+      "cropToken": null
+    },
+    "project:Teil1.jpg": {
+      "asset": "image-mux7z8g2-k6abzheod1",
+      "kind": "original",
+      "cropToken": null
+    }
+  }
+}
